@@ -1,0 +1,8 @@
+{
+  "publisher": "BetterWindows",
+  "version": "1.0.0",
+  "install": {
+    "type": "files",
+    "files": []
+  }
+}
